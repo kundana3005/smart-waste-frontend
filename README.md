@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# smart-waste-frontend
+>>>>>>> c1c870d4fb320d16104f6ef9708276a6868716c4
